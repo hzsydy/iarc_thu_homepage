@@ -1,6 +1,6 @@
 * { font-family: 'Lato', sans-serif; }
 
-.container { padding: 0; }
+.container { padding: 160px; }
 @media (max-width: 544px) { .container { max-width: 576px; } }
 @media (max-width: 768px) { .container { max-width: 720px; } }
 @media (max-width: 922px) { .container { max-width: 922px; } }
